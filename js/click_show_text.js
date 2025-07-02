@@ -1,3 +1,4 @@
+// 墨思琪
 var a_idx = 0;
 jQuery(document).ready(function($) {
     $("body").click(function(e) {
